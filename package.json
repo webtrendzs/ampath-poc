@@ -1,5 +1,5 @@
 {
-  "name": "angular-library-seed",
+  "name": "ampath-poc",
   "version": "0.0.20",
   "description": "Angular library seed",
   "main": "./dist/index.umd.js",
